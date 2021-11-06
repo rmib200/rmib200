@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Manuel](https://github.com/rmib200/) 👋
 ![https://github.com/rmib200/rmib200/blob/main/Brain_interface.gif](https://github.com/rmib200/rmib200/blob/main/Brain_interface.gif)
 <!--
 **rmib200/rmib200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
