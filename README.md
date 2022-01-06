@@ -1,5 +1,5 @@
 ### Hi there, I'm [Manuel](https://github.com/rmib200/) 👋
-![https://github.com/rmib200/rmib200/blob/main/BCI%20(2).gif](https://github.com/rmib200/rmib200/blob/main/BCI%20(2).gif)
+<!-- ![https://github.com/rmib200/rmib200/blob/main/BCI%20(2).gif](https://github.com/rmib200/rmib200/blob/main/BCI%20(2).gif) -->
 
 I'm a passionate for Neuroscience and Brain Computer Interfaces.
 
